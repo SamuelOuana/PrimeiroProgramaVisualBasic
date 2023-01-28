@@ -1,0 +1,12 @@
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\meuPrimeiroPrograma\bin\Debug\meuPrimeiroPrograma.exe
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\meuPrimeiroPrograma\bin\Debug\meuPrimeiroPrograma.pdb
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\meuPrimeiroPrograma\bin\Debug\meuPrimeiroPrograma.xml
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\meuPrimeiroPrograma\obj\x86\Debug\meuPrimeiroPrograma.Form1.resources
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\meuPrimeiroPrograma\obj\x86\Debug\meuPrimeiroPrograma.Resources.resources
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\meuPrimeiroPrograma\obj\x86\Debug\meuPrimeiroPrograma.vbproj.GenerateResource.Cache
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\meuPrimeiroPrograma\obj\x86\Debug\meuPrimeiroPrograma.exe
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\meuPrimeiroPrograma\obj\x86\Debug\meuPrimeiroPrograma.xml
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\meuPrimeiroPrograma\obj\x86\Debug\meuPrimeiroPrograma.pdb
+E:\Biblioteca E\CIG\Programacao\Visual Basic\meuPrimeiroPrograma\meuPrimeiroPrograma\obj\x86\Debug\meuPrimeiroPrograma.exe
+E:\Biblioteca E\CIG\Programacao\Visual Basic\meuPrimeiroPrograma\meuPrimeiroPrograma\obj\x86\Debug\meuPrimeiroPrograma.xml
+E:\Biblioteca E\CIG\Programacao\Visual Basic\meuPrimeiroPrograma\meuPrimeiroPrograma\obj\x86\Debug\meuPrimeiroPrograma.pdb
